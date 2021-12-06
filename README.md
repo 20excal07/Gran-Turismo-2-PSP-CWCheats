@@ -1,4 +1,4 @@
-# Gran Turismo 2 PSP CWCheat codes
+# Gran Turismo 2 PSP enhancement CWCheat codes
 CWCheat codes to slightly improve your GT2 experience on the PSP via POPS emulation.
 
 Some codes are based on CookiePLMonster's work: <br />
