@@ -12,4 +12,4 @@ Feel free to fork this and add more.
 These codes will work with the **v1.2 NTSC-U Simulation** disc.<br />
 If you've patched the game with the [**GT2 Plus**](https://www.gtplanet.net/forum/threads/mod-gran-turismo-2-plus-bug-fixes-restored-content-and-new-content.378282/) mod using any of the NTSC-U disc as a base, it is automatically upgraded to v1.2 and will work with that.
 
-**It will NOT work with the NTSC-U Arcade disc**, because that disc only goes up to v1.1.
+**It will NOT work with the NTSC-U Arcade disc**, patched or not, because that disc only goes up to v1.1.
