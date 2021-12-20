@@ -1,5 +1,10 @@
 _S SCUS_94488
 _G Gran Turismo 2 NTSC-U Simulation v1.2
+_C1 [CPLM] Widescreen (reset overlay)
+_L D0052A70 00F6
+_L D0052A72 0000
+_L 8005D5DC 0000
+_L 80057054 0000
 _C1 [CPLM] Widescreen (race)
 _L D001F888 0008
 _L D001F88A AEB4
