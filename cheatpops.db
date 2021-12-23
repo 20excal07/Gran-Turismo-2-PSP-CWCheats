@@ -1,13 +1,13 @@
 _S SCUS_94488
 _G Gran Turismo 2 NTSC-U Simulation v1.2
-_C1 [CPLM] Widescreen (race)
+_C1 [CPLM] 16:9 (in races)
 _L D001F888 0008
 _L D001F88A AEB4
 _L D00100D0 FF60
 _L 800100D0 FF2B
 _L D00100D4 00A0
 _L 800100D4 00D5
-_C1 [CPLM] Widescreen (GT Mode screens)
+_C1 [CPLM] 16:9 (GT Mode screens)
 _L D002442C 29A8
 _L D002442E 8002
 _L D001CDF4 00B3
@@ -16,7 +16,7 @@ _L D001CDFC FFCE
 _L 8001CDFC FFDB
 _L D001CE04 0320
 _L 8001CE04 0258
-_C0 [CPLM] Widescreen (post-race1; affects license test UI)
+_C0 [CPLM] 16:9 (post-race1; affects license test UI)
 _L D0057054 01C0
 _L D0057056 2602
 _L D00497CA A485
@@ -33,7 +33,7 @@ _L D004C19C 3021
 _L 8004C19C 00C8
 _L D004C19E 00A0
 _L 8004C19E 3406
-_C1 [CPLM] Widescreen (license screen,results)
+_C1 [CPLM] 16:9 (license screen,results)
 _L D0057054 01C0
 _L D0057056 2602
 _L D004E07C 0000
@@ -50,7 +50,7 @@ _L D0050C14 FF50
 _L 80050C14 FF16
 _L D0050C1C 00B0
 _L 80050C1C 00EA
-_C1 [CPLM] Widescreen (post-race2,trophy)
+_C1 [CPLM] 16:9 (post-race2,trophy screen)
 _L D005D5DC A5F8
 _L D005D5DE 8005
 _L D0058070 00C8
@@ -67,7 +67,7 @@ _L D005892E 00A0
 _L 8005892E 3406
 _L D0059A08 0160
 _L 80059A08 01D5
-_C1 [CPLM] Widescreen (rear-view mirror)
+_C1 [CPLM] 16:9 (rear-view mirror)
 _L D00295EC FFC4
 _L D003EC74 2021
 _L 800295EC FFB0
@@ -101,7 +101,7 @@ _L D0014346 16A0
 _L 80014346 0800
 _L D0014348 0003
 _L 80014348 0003
-_C1 [CPLM] mph to km/h (lap times)
+_C1 [CPLM] mph->km/h (lap times)
 _L E01C6C87 006D
 _L E01C6C88 0070
 _L 301C6C87 006B
@@ -110,7 +110,7 @@ _L E01C6C89 0068
 _L E01C6C8A 0000
 _L 301C6C89 002F
 _L 301C6C8A 0068
-_C1 [CPLM] mph to km/h (speedometer)
+_C1 [CPLM] mph->km/h (speedometer)
 _L D003EC74 2021
 _L D003EC76 0260
 _L D002F6FC B0D8
@@ -121,7 +121,7 @@ _L D0030570 000D
 _L 80030570 0016
 _L D0030574 FBDD
 _L D0030574 8000
-_C1 [CPLM] mph to km/h (license speed text)
+_C1 [CPLM] mph->km/h (license speed text)
 _L E01C7101 006D
 _L E01C7102 0070
 _L 301C7101 006B
@@ -130,7 +130,7 @@ _L E01C7103 0068
 _L E01C7104 0000
 _L 301C7103 002F
 _L 301C7104 0068
-_C1 [CPLM] mph to km/h (license unit scaling)
+_C1 [CPLM] mph->km/h (license unit scaling)
 _L D0057054 01C0
 _L D0057056 2602
 _L D004DA18 37C3
