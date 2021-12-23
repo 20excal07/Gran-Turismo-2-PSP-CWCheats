@@ -83,7 +83,7 @@ _L D003EC76 0260
 _L 80029526 0800
 _C1 Disable dithering (car shadows turn weird)
 _L 80067D58 0000
-_L 80067FAC 0000
+_L 30067FAD 0000
 _L 80080270 0000
 _C1 [CPLM] Slightly higher draw distance
 _L D0020420 0004
